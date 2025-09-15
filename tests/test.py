@@ -1,6 +1,6 @@
 import unittest
 
-from main import resta, suma
+from core.main import resta, suma
 
 class TestPrueba(unittest.TestCase):
 
